@@ -1,22 +1,18 @@
+## Ryugo Okada
+## 9/25/18
+
 ## Last Week's Accomplishments
-
-> In this section, you can write about what you accomplished in the previous week.
-
-> Examples:
-> Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
+Learned about how some filters work (did in a class)
+Confirmed that there is a way to make a filter of some sort with copper pipe and a bolt.
 
 ## This Week's Plan
-
-> In this section, you can write about what you have planned for next week.
-
-> Examples: New Bugs to be fixed, Design choices
+Analyse the current circuit to see if I can understand it with my very basic knowledge.
+Double check to see if the copper pipe filter is usable.
+Do calculations to see what components we can use to filter out frequencies we want from the signal.
 
 ## Anything Blocking?
-
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> Examples: Confusion on how to approach a problem, Limited experience with a specific technology
+Lack of knowledge regarding electrical signals and high frequency radio signals.
+LTSpice does not have TI components. Need to find equivalent.
 
 ## Notes
-
-> This is an optional section for any sort of information that does not fall under any of the other categories.
+Maybe research a better antenna?
